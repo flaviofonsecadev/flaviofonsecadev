@@ -12,7 +12,7 @@
 ✓Graduando em Análise e Desenvolvimento de Sistemas<br>
 ✓Desenvolvedor Web Frontend - React.js<br>
 ✓Desenvolvedor de Sites Wordpress/Elementor<br>
-✓Graduado em Letras - Inglês <br><br>
+✓Professor - Graduado em Letras -Inglês <br><br>
 
 #Programação<br>
 #DesenvolvedorAndroid<br>
