@@ -3,7 +3,9 @@
 
 
 
-<p align="left">✓Desenvolvedor Android na Foursys - Estagiário <br>
+<p align="left">
+✓Desenvolvedor Freelancer Android | Web <br>
+✓Desenvolvedor Android na Foursys - Estagiário <br>
 ✓Graduando em Análise e Desenvolvimento de Sistemas<br>
 ✓Desenvolvedor Web Frontend - React.js<br>
 ✓Desenvolvedor de Sites Wordpress/Elementor<br>
