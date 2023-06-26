@@ -4,8 +4,8 @@
 
 
 <p align="left">
+✓Desenvolvedor Mobile na Pado/Padotec <br>
 ✓Desenvolvedor Freelancer Android | Web <br>
-✓Desenvolvedor Android na Foursys - Estagiário <br>
 ✓Graduando em Análise e Desenvolvimento de Sistemas<br>
 ✓Desenvolvedor Web Frontend - React.js<br>
 ✓Desenvolvedor de Sites Wordpress/Elementor<br>
